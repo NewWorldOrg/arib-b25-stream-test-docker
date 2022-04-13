@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker run --rm --mount type=bind,source=/var/run/pcscd,target=/var/run/pcscd arib-b25-stream-test
