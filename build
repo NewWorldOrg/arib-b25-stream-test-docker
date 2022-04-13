@@ -1,1 +1,3 @@
+#!/bin/bash
+
 docker build -t arib-b25-stream-test .
